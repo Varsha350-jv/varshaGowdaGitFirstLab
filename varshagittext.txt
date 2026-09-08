@@ -1,0 +1,14 @@
+Closest num
+Icecream parlour 
+Find the median
+Recursion n bit manipulation 
+Sum vs xor
+Flipping bits
+Mark n toys
+Greedy florist
+Camelcase
+Mars exploration 
+Funny string 
+Alternating character
+Beautiful binary string
+Range queries
